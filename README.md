@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-To see a non-coding projects check out my [personal site](dankenerson.com).
+To see a non-coding projects check out my [personal site](https://dankenerson.com).
 
 Here's some fun stats:
 
